@@ -23,6 +23,8 @@ Trained on real recruitment data using HuggingFace Transformers.
 | F1 | **0.88** |
 
 ## Quick start
+Rerun the code first and do the following:
+
 ```python
 from transformers import pipeline
 
